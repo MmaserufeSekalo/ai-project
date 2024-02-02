@@ -20,10 +20,11 @@ form {
     border-radius: 20px;
     padding: 1.7vh 4vw;
     border: 2px solid rgb(54, 4, 253);
+  
 
 }
 .input{
-    width: 70%;
+    width: 100%;
     
 }
 .button{
@@ -47,4 +48,10 @@ p{
 }
 .change-opacity{
     opacity: 0.4;
+}
+.example{
+    font-size: 8px;
+    margin-top: 0;
+    font-weight: 700;
+    opacity: 0.5;
 }
